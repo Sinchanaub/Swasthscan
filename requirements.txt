@@ -1,0 +1,10 @@
+torch
+torchvision
+timm
+opencv-python-headless
+numpy
+pillow
+streamlit
+grad-cam
+onnx
+onnxruntime
